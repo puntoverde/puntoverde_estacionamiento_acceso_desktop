@@ -1,0 +1,2 @@
+esta es la aplicacion actual de ingreso al estacionamiento con fecha 22-enero-2025
+.- se agrega el menu visible para que pueda realizar el refresh dela pagina y con ello tambien con f12 abrir las devtools -22-01-2025
